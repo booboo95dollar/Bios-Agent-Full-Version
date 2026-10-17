@@ -230,4 +230,4 @@ This repository serves as the official landing page for BIOS Agent. The software
 **Get the most recent version of BIOS Agent today!**
 
 ---
-**Last updated:** 2026-10-17 11:25:56 UTC
+**Last updated:** 2026-10-17 15:06:54 UTC
